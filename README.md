@@ -48,5 +48,13 @@ The above findings show that althogh rural city type has lowest level of total r
   - Bar chart for distribution of data
 
 # Recommendations
+To analyze the underserved neighborhood, rural city area, we recommend more insights into both sides of the market in rural city area. We need more information for why rural city area has low total rides, drivers and fares but people who used PyBer rideshare services in that area have the affordability for the service. 
+- Demand side
+  - Data for the number of PyBer booking APP downloads to investigate potential demand.
+  - Data for the number of local Taxi for current real demand 
+- Supply side
+  - Ride per hour
+  - Earning per hour 
+  
 
 
