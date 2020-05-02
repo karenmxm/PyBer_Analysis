@@ -48,5 +48,12 @@ The above findings show that althogh rural city type has lowest level of total r
   - Bar chart for distribution of data
 
 # Recommendations
-
-
+To analyze the underserved neighborhood, rural city area, we recommend more insights into both sides of the market in rural city area. We need more information for why rural city area has low total rides, drivers and fares but people who used PyBer rideshare services in that area have the affordability for the service. More specific, we need the following data for a deeper understanding of the market.
+- Demand side
+  - Number of PyBer booking APP downloads to investigate potential demand.
+  - Number of local Taxi for current real demand 
+- Supply side
+  - Ride per hour
+  - Earning per hour 
+ 
+ We can use similar techniques and visulizations in this current report to do more analysis on supply side if we could have each ride hours. We can calculate ride per hour by total rides/total hours and earning per hour by total fares/total hours. Demand side data requested can help PyBer know if rideshare market is full in the three city type.
