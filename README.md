@@ -8,5 +8,5 @@ This report provides the analysis of PyBer's rideshare data from January to earl
 
 ## Summary Table
 
-![](analysis/Summary Table)
+![](analysis/Summary Table.png)
 
