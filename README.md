@@ -4,7 +4,7 @@ Analysis on PyBer rideshare data from January to early May 2019.
 
 # Findings and Analysis
 
-This report provides the analysis of PyBer's rideshare data from January to early May of 2019 and create a compelling visualization to show the findings. The purpose of this analysis is to improve PyBer to access to ridesharing services and determine affordability for under-serviced neighborhood. For this purpose, we created a summary talbe for total rides, drivers and fares, and average fare per ride and average fare per driver in three city types. We also created a line chart for weekly average fares for three city types.
+This report provides the analysis of PyBer's rideshare data from January to early May of 2019 and create a compelling visualization to show the findings. The objective of this analysis is to improve PyBer to access to ridesharing services and determine affordability for under-serviced neighborhood. For this purpose, we created a summary talbe for total rides, drivers and fares, and average fare per ride and average fare per driver in three city types. We also created a line chart for weekly average fares for three city types.
 
 ## Summary Table
 
@@ -31,4 +31,22 @@ This report provides the analysis of PyBer's rideshare data from January to earl
 ## Analysis
 
 The above findings show that althogh rural city type has lowest level of total rides, total riders, total fares and weekly average total fares, there is a potential for ride-sharing services in this underserved neighborhood because We found that this city type has highest average fare per ride and average fare per driver. This means customers in rural city type has the affordability for ride-sharing services. 
+
+# Challenges and Difficulties
+
+- Relate project objective with data set.
+  - Get a big picture of the data set
+    - How many rows and columns of data.
+    - What variables we have.
+  - Get statistics for the variables.
+    - mean, median, variance, min, max, percentile, etc. are helpful for understanding distribution of data.
+    - sum basic calculations for the whole data set and for some categories using "groupby" function.
+- Which type of visualization should be chosen
+  - Scatter plot for relationship between variables
+  - Line chart for trend
+  - Pie chart for percentage
+  - Bar chart for distribution of data
+
+# Recommendations
+
 
