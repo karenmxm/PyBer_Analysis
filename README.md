@@ -8,4 +8,5 @@ This report provides the analysis of PyBer's rideshare data from January to earl
 
 ## Summary Table
 
-![Summary Table](http://github.com/karenmxm/PyBer_Analysis/blob/master/analysis/Summary%20Table.png?raw=true)
+![](http://github.com/karenmxm/PyBer_Analysis/blob/master/analysis/Summary%20Table.png?raw=true)
+
