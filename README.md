@@ -55,6 +55,7 @@ To analyze the underserved neighborhood, rural city area, we recommend more insi
 - Supply side
   - Ride per hour
   - Earning per hour 
+ 
  We can use similar techniques and visulizations in this current report to do more analysis with new data.
 
 
