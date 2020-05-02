@@ -56,6 +56,4 @@ To analyze the underserved neighborhood, rural city area, we recommend more insi
   - Ride per hour
   - Earning per hour 
  
- We can use similar techniques and visulizations in this current report to do more analysis with new data.
-
-
+ We can use similar techniques and visulizations in this current report to do more analysis on supply side if we could have each ride hours. We can calculate ride per hour by total rides/total hours and earning per hour by total fares/total hours. Demand side data requested can help PyBer know if rideshare market is full in the three city type.
