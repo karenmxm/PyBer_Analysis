@@ -12,5 +12,5 @@ This report provides the analysis of PyBer's rideshare data from January to earl
 
 ## Weekly Average Fares by City Type
 
-![](analysis/fig8.png)
+![](analysis/Fig8.png)
 
