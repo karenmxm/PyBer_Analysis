@@ -35,13 +35,13 @@ The above findings show that althogh rural city type has lowest level of total r
 # Challenges and Difficulties
 
 - Relate project objective with data set.
-  - Get a big picture of the data set
+  - Get a big picture of the data set.
     - How many rows and columns of data.
     - What variables we have.
   - Get statistics for the variables.
     - mean, median, variance, min, max, percentile, etc. are helpful for understanding distribution of data.
     - sum basic calculations for the whole data set and for some categories using "groupby" function.
-- Which type of visualization should be chosen
+- Which type of visualization should be chosen.
   - Scatter plot for relationship between variables
   - Line chart for trend
   - Pie chart for percentage
