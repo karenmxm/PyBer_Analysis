@@ -10,7 +10,7 @@ This report provides the analysis of PyBer's rideshare data from January to earl
 
 ![](analysis/SummaryTable.png)
 
-## Weekly Average Fares by City Type
+## Weekly Average Total Fares by City Type
 
 ![](analysis/Fig8.png)
 
@@ -23,3 +23,9 @@ This report provides the analysis of PyBer's rideshare data from January to earl
 ### Average Fare per ride and Average Fare per Driver
 - Urban city type has lowest average fare per ride and average fare per driver.
 - Rural city type has highest average fare per ride and average fare per driver.
+
+### Weekly Average Total Fares by City Type
+- Urban city type has highest weekly average total fare and distributes between $1,600 to $2,500.
+- Rural city type has lowest weekly average total fare and distributes between $60 to $ 502.
+
+
