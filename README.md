@@ -14,3 +14,12 @@ This report provides the analysis of PyBer's rideshare data from January to earl
 
 ![](analysis/Fig8.png)
 
+## Findings
+
+### Total Rides, Drivers and Fares
+- Urban city type has most total rides, drivers and fares.
+- Rural city type has least total rides, drivers and fares.
+
+### Average Fare per ride and Average Fare per Driver
+- Urban city type has lowest average fare per ride and average fare per driver.
+- Rural city type has highest average fare per ride and average fare per driver.
