@@ -30,5 +30,5 @@ This report provides the analysis of PyBer's rideshare data from January to earl
 
 ## Analysis
 
-The above findings show that althogh Rural city type has lowest level of total rides, total riders, total fares and weekly average total fares, there is a potential for ride-sharing services in this underserved neighborhood because We found that this city type has highest average fare per ride and average fare per driver. This means customers in Rural city type has the affordability for ride-sharing service. 
+The above findings show that althogh rural city type has lowest level of total rides, total riders, total fares and weekly average total fares, there is a potential for ride-sharing services in this underserved neighborhood because We found that this city type has highest average fare per ride and average fare per driver. This means customers in rural city type has the affordability for ride-sharing services. 
 
