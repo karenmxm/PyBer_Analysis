@@ -37,5 +37,5 @@ The above findings show that althogh rural city type has lowest level of total r
 - Relate project objective with data set.
   - Get a big picture of the data set
   
-    -- How many rows and columns of data
-    -- What variables we have
+    - How many rows and columns of data
+    - What variables we have
