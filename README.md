@@ -16,17 +16,17 @@ This report provides the analysis of PyBer's rideshare data from January to earl
 
 ## Findings
 
-### Total Rides, Drivers and Fares
-- Urban city type has most total rides, drivers and fares.
-- Rural city type has least total rides, drivers and fares.
+- Total Rides, Drivers and Fares
+  - Urban city type has most total rides, drivers and fares.
+  - Rural city type has least total rides, drivers and fares.
 
-### Average Fare per ride and Average Fare per Driver
-- Urban city type has lowest average fare per ride and average fare per driver.
-- Rural city type has highest average fare per ride and average fare per driver.
+- Average Fare per ride and Average Fare per Driver
+  - Urban city type has lowest average fare per ride and average fare per driver.
+  - Rural city type has highest average fare per ride and average fare per driver.
 
-### Weekly Average Total Fares by City Type
-- Urban city type has highest weekly average total fares and distributes between $1,600 to $2,500.
-- Rural city type has lowest weekly average total fares and distributes between $60 to $ 502.
+- Weekly Average Total Fares by City Type
+  - Urban city type has highest weekly average total fares and distributes between $1,600 to $2,500.
+  - Rural city type has lowest weekly average total fares and distributes between $60 to $ 502.
 
 ## Analysis
 
