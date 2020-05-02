@@ -4,7 +4,7 @@ Analysis on PyBer rideshare data from January to early May 2019.
 
 # Findings and Analysis
 
-This report provides the analysis of PyBer's rideshare data from January to early May of 2019 and create a compelling visualization to show the findings. The purpose of this analysis is to improve PyBer to access to ridesharing services and determine affordability for under-serviced neighborhood. For this purpose, we created a summary talbe for total rides, drivers and fares, and average fare per ride and average fare per driver in three city types. We also created a line chart for weekly average fares for three city types.
+This report provides the analysis of PyBer's rideshare data from January to early May of 2019 and create a compelling visualization to show the findings. The objective of this analysis is to improve PyBer to access to ridesharing services and determine affordability for under-serviced neighborhood. For this purpose, we created a summary talbe for total rides, drivers and fares, and average fare per ride and average fare per driver in three city types. We also created a line chart for weekly average fares for three city types.
 
 ## Summary Table
 
@@ -34,3 +34,7 @@ The above findings show that althogh rural city type has lowest level of total r
 
 # Challenges and Difficulties
 
+- Relate project objective with data set.
+  - Get a big picture of the data set
+  -- How many rows and columns of data
+  -- What variables we have
