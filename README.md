@@ -2,7 +2,7 @@
 
 Analysis on PyBer rideshare data from January to early May 2019.
 
-# Findings
+# Findings and Analysis
 
 This report provides the analysis of PyBer's rideshare data from January to early May of 2019 and create a compelling visualization to show the findings. The purpose of this analysis is to improve PyBer to access to ridesharing services and determine affordability for under-serviced neighborhood. For this purpose, we created a summary talbe for total rides, drivers and fares, and average fare per ride and average fare per driver in three city types. We also created a line chart for weekly average fares for three city types.
 
@@ -25,7 +25,10 @@ This report provides the analysis of PyBer's rideshare data from January to earl
 - Rural city type has highest average fare per ride and average fare per driver.
 
 ### Weekly Average Total Fares by City Type
-- Urban city type has highest weekly average total fare and distributes between $1,600 to $2,500.
-- Rural city type has lowest weekly average total fare and distributes between $60 to $ 502.
+- Urban city type has highest weekly average total fares and distributes between $1,600 to $2,500.
+- Rural city type has lowest weekly average total fares and distributes between $60 to $ 502.
 
+## Analysis
+
+The above findings show that althogh Rural city type has lowest level of total rides, total riders, total fares and weekly average total fares, there is a potential for ride-sharing services in this underserved neighborhood because We found that this city type has highest average fare per ride and average fare per driver. This means customers in Rural city type has the affordability for ride-sharing service. 
 
