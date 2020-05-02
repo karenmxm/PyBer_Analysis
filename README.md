@@ -46,3 +46,5 @@ The above findings show that althogh rural city type has lowest level of total r
   - Line chart for trend
   - Pie chart for percentage
   - Bar chart for distribution of data
+
+# Recommendations
